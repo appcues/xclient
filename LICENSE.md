@@ -1,3 +1,5 @@
+# MIT License
+
 Copyright 2019 Appcues, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a
